@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.SystemInfo
+Exec=ru.auroraos.SystemInfo
+Name=New name for 'System info' app
+Name[ru]=Новое название 'о системе'
+
+[X-Sailjail]
+Permissions=Internet;DeviceInfo
+OrganizationName=ru.auroraos
+ApplicationName=System Info

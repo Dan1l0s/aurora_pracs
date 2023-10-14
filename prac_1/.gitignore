@@ -1,0 +1,9 @@
+.mb2
+RPMS
+translations/*.qm
+*.list
+*.md.backup
+*.o
+*.pro.user*
+Makefile
+system-info

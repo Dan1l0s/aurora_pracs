@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Generated file. This file is used by SDK to show example inside Welcome screen. It is not the part of the example. -->
+<instructionals module="Aurora ОС">
+ <examples>
+  <example projectPath="ru.auroraos.SystemInfo.pro" imageUrl="C:/Users/StudentA415/AppData/Roaming/AuroraOS-SDK/QtCreator/AuroraОС/SystemInfo/icons/128x128/ru.auroraos.SystemInfo.png" name="System Info">
+   <description><![CDATA[The project contains the usage examples of the API that provides information about the execution environment: the OS and the device]]></description>
+   <tags>AuroraOS,C++,Qt,Qt Quick,example,qml,system</tags>
+   <platforms>Mer</platforms>
+   <preferredFeatures>Mer.Wizard.Feature.Emulator</preferredFeatures>
+   <fileToOpen>/qml/SystemInfo.qml</fileToOpen>
+  </example>
+ </examples>
+</instructionals>

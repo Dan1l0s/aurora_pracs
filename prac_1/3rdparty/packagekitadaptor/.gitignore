@@ -1,0 +1,5 @@
+*.list
+*.md.backup
+*.o
+*.pro.user*
+Makefile
