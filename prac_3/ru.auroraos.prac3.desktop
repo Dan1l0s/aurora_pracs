@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.prac3
+Exec=/usr/bin/ru.auroraos.prac3
+Name=Template
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=
+OrganizationName=ru.auroraos
+ApplicationName=prac3
+ExecDBus=/usr/bin/ru.auroraos.prac3
